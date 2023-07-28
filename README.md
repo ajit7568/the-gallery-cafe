@@ -8,41 +8,50 @@ html code contain in project
    <title>The Galllery Cafe</title>
 </head>
 <body>
+   <!-- Website Header -->
    <h1>The gallery Cafe</h1>
    <hr>
-    
+
+   <!-- About Us Section -->
    <h4>About Us</h4>
    <p>Lorem ipsum, <b>Lorem ipsum dolor sit amet</b>. dolor sit amet consectetur adipisicing elit. Rem magnam illum modi neque quidem obcaecati eveniet quas, quisquam omnis excepturi culpa aperiam cupiditate? Minima, consectetur. Perspiciatis sit libero provident natus?</p>
    <a href="https://www.Rateus.com">Rate Us</a>
    <a href="https://Follow Us.com">Follow Us</a>
    <hr>
+
+   <!-- Menu Section -->
    <h1>Menu</h1>
-    
-   <h4>South indian</h4>
+
+   <!-- South Indian Menu -->
+   <h4>South Indian</h4>
    <ol>
       <li>Dosa</li>
       <li>Idli</li>
       <li>Utpam</li>
    </ol>
    <hr>
-  <h4>Punjabi</h4>
-  <ol>
-   <li>Chaap</li>
-   <li>Chole Kulche</li>
-   <li>Aloo paratha</li>
-  </ol>
-  <hr>
-  <h4>Extras</h4>
-  <ol>
-   <li>Pizza</li>
-   <li>Nachos</li>
-   <li>Lasagne</li>
-  </ol>
-  <hr>
- 
-  <hr>
-  <h1>Contact</h1>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et nulla nostrum temporibus consectetur. Et ducimus tempore, sunt soluta cumque
+
+   <!-- Punjabi Menu -->
+   <h4>Punjabi</h4>
+   <ol>
+      <li>Chaap</li>
+      <li>Chole Kulche</li>
+      <li>Aloo paratha</li>
+   </ol>
+   <hr>
+
+   <!-- Extras Menu -->
+   <h4>Extras</h4>
+   <ol>
+      <li>Pizza</li>
+      <li>Nachos</li>
+      <li>Lasagne</li>
+   </ol>
+   <hr>
+
+   <!-- Contact Section -->
+   <h1>Contact</h1>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et nulla nostrum temporibus consectetur. Et ducimus tempore, sunt soluta cumque
     optio, sed hic numquam perspiciatis id voluptatibus ad. Praesentium doloremque repellat quo,<b> The Biggest Dhaba Chain</b> 
    dolorum voluptatem eveniet. Aut ad possimus modi, asperiores iste incidunt vero. Doloremque culpa quae quisquam ipsum qui neque esse
     voluptatum, numquam quo unde porro expedita veritatis fugiat non laboriosam voluptates animi nemo molestias eveniet reiciendis
@@ -63,3 +72,5 @@ html code contain in project
             quasi dicta culpa porro, itaque</p>
 </body>
 </html>
+ 
+ 
