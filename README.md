@@ -1,4 +1,6 @@
 # the-gallery-cafe
+<!-- hosted link -->
+https://ajit7568.github.io/the-gallery-cafe/
 html code used in project
 <!DOCTYPE html>
 <html lang="en">
