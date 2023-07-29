@@ -1,5 +1,5 @@
 # the-gallery-cafe
-<!-- hosted link -->
+<!-- hosted link  -->
 https://ajit7568.github.io/the-gallery-cafe/
 html code used in project
 <!DOCTYPE html>
@@ -7,20 +7,26 @@ html code used in project
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
    <title>The Galllery Cafe</title>
 </head>
 <body>
+   <!--  header h1 tag uesd  display heading of site -->
    <h1>The gallery Cafe</h1>
+   <!-- hr tag to draw a line -->
    <hr>
     
    <h4>About Us</h4>
+   <!-- p tag to write the content in form of paragraph -->
    <p>Lorem ipsum, <b>Lorem ipsum dolor sit amet</b>. dolor sit amet consectetur adipisicing elit. Rem magnam illum modi neque quidem obcaecati eveniet quas, quisquam omnis excepturi culpa aperiam cupiditate? Minima, consectetur. Perspiciatis sit libero provident natus?</p>
+   <!-- a tag to display links to redirect on those links -->
    <a href="https://www.Rateus.com">Rate Us</a>
    <a href="https://Follow Us.com">Follow Us</a>
    <hr>
    <h1>Menu</h1>
     
    <h4>South indian</h4>
+   <!-- ol for orderd list -->
    <ol>
       <li>Dosa</li>
       <li>Idli</li>
